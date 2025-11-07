@@ -46,3 +46,7 @@ a:hover {
     cursor: pointer;
     text-align: center;
 }
+
+.button:hover {
+    background-color: #2980b9;
+}
