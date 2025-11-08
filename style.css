@@ -50,3 +50,7 @@ a:hover {
 .button:hover {
     background-color: #2980b9;
 }
+
+.form-group {
+    margin-bottom: 15px;
+}
