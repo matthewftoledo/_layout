@@ -67,3 +67,8 @@ a:hover {
     border: 1px solid #ccc;
     border-radius: 5px;
 }
+
+.form-group input:focus, .form-group textarea:focus {
+    border-color: #3498db;
+    outline: none;
+}
