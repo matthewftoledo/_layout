@@ -121,3 +121,7 @@ a:hover {
 .card h3 {
     margin-top: 0;
 }
+
+.card p {
+    color: #666;
+}
