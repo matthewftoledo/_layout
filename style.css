@@ -135,3 +135,7 @@ a:hover {
     padding: 10px;
     border-bottom: 1px solid #ddd;
 }
+
+.list-group li:last-child {
+    border-bottom: none;
+}
