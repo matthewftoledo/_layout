@@ -139,3 +139,7 @@ a:hover {
 .list-group li:last-child {
     border-bottom: none;
 }
+
+.list-group li:hover {
+    background-color: #f9f9f9;
+}
