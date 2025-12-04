@@ -159,3 +159,7 @@ a:hover {
 .alert.info {
     background-color: #2196F3;
 }
+
+.alert.warning {
+    background-color: #ff9800;
+}
