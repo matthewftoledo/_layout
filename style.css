@@ -163,3 +163,9 @@ a:hover {
 .alert.warning {
     background-color: #ff9800;
 }
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
