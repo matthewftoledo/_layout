@@ -169,3 +169,9 @@ a:hover {
     border-collapse: collapse;
     margin-bottom: 20px;
 }
+
+.table th, .table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
