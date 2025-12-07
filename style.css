@@ -175,3 +175,7 @@ a:hover {
     padding: 10px;
     text-align: left;
 }
+
+.table th {
+    background-color: #f4f4f4;
+}
