@@ -183,3 +183,7 @@ a:hover {
 .table-striped tr:nth-child(even) {
     background-color: #f9f9f9;
 }
+
+.table-hover tr:hover {
+    background-color: #f1f1f1;
+}
