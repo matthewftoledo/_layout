@@ -198,3 +198,7 @@ a:hover {
         width: 100%;
     }
 }
+
+.highlight {
+    background-color: #ffff99;
+}
