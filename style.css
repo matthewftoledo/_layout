@@ -215,3 +215,12 @@ a:hover {
 .fade-in {
     animation: fadeIn 1s ease-in-out;
 }
+
+@keyframes slideIn {
+    from {
+        transform: translateX(-100%);
+    }
+    to {
+        transform: translateX(0);
+    }
+}
