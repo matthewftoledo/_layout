@@ -224,3 +224,7 @@ a:hover {
         transform: translateX(0);
     }
 }
+
+.slide-in {
+    animation: slideIn 1s ease-in-out;
+}
