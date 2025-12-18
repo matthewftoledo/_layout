@@ -241,3 +241,7 @@ a:hover {
 .rotate {
     animation: rotate 2s linear infinite;
 }
+
+.hidden {
+    display: none;
+}
