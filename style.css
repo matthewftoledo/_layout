@@ -261,3 +261,7 @@ a:hover {
         transform: scale(1);
     }
 }
+
+.pulse {
+    animation: pulse 2s infinite;
+}
