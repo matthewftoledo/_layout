@@ -293,3 +293,10 @@ a:hover {
 .shake {
     animation: shake 0.5s;
 }
+
+@media (prefers-reduced-motion: reduce) {
+    * {
+        animation: none !important;
+        transition: none !important;
+    }
+}
