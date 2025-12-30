@@ -306,3 +306,7 @@ a:hover {
     50% { background-color: #2ecc71; }
     100% { background-color: #3498db; }
 }
+
+.color-change {
+    animation: colorChange 3s infinite;
+}
