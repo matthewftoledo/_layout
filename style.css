@@ -310,3 +310,14 @@ a:hover {
 .color-change {
     animation: colorChange 3s infinite;
 }
+
+@keyframes slideUp {
+    from {
+        transform: translateY(100%);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
