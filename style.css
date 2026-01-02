@@ -325,3 +325,14 @@ a:hover {
 .slide-up {
     animation: slideUp 1s ease-in-out;
 }
+
+@keyframes zoomIn {
+    from {
+        transform: scale(0);
+        opacity: 0;
+    }
+    to {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
