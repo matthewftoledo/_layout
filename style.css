@@ -340,3 +340,12 @@ a:hover {
 .zoom-in {
     animation: zoomIn 0.5s ease-in-out;
 }
+
+@keyframes flip {
+    from {
+        transform: rotateY(0);
+    }
+    to {
+        transform: rotateY(360deg);
+    }
+}
