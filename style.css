@@ -349,3 +349,7 @@ a:hover {
         transform: rotateY(360deg);
     }
 }
+
+.flip {
+    animation: flip 1s linear infinite;
+}
