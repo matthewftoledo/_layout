@@ -359,3 +359,7 @@ a:hover {
     25% { transform: rotate(5deg); }
     75% { transform: rotate(-5deg); }
 }
+
+.wiggle {
+    animation: wiggle 0.5s infinite;
+}
