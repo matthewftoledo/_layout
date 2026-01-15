@@ -409,3 +409,14 @@ a:hover {
 .bounce-in {
     animation: bounceIn 0.7s ease-in-out;
 }
+
+@keyframes rotateIn {
+    from {
+        transform: rotate(-200deg);
+        opacity: 0;
+    }
+    to {
+        transform: rotate(0);
+        opacity: 1;
+    }
+}
