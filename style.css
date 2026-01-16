@@ -420,3 +420,7 @@ a:hover {
         opacity: 1;
     }
 }
+
+.rotate-in {
+    animation: rotateIn 1s ease-in-out;
+}
