@@ -457,3 +457,7 @@ a:hover {
         transform: scale(1);
     }
 }
+
+.heartbeat {
+    animation: heartbeat 1.5s infinite;
+}
