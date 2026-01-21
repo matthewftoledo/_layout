@@ -461,3 +461,18 @@ a:hover {
 .heartbeat {
     animation: heartbeat 1.5s infinite;
 }
+
+@keyframes swing {
+    20% {
+        transform: rotate(15deg);
+    }
+    40% {
+        transform: rotate(-10deg);
+    }
+    60% {
+        transform: rotate(5deg);
+    }
+    80% {
+        transform: rotate(-5deg);
+    }
+}
