@@ -476,3 +476,7 @@ a:hover {
         transform: rotate(-5deg);
     }
 }
+
+.swing {
+    animation: swing 1s ease-in-out;
+}
