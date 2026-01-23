@@ -480,3 +480,14 @@ a:hover {
 .swing {
     animation: swing 1s ease-in-out;
 }
+
+@keyframes rollIn {
+    from {
+        transform: translateX(-100%) rotate(-360deg);
+        opacity: 0;
+    }
+    to {
+        transform: translateX(0) rotate(0);
+        opacity: 1;
+    }
+}
