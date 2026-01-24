@@ -491,3 +491,7 @@ a:hover {
         opacity: 1;
     }
 }
+
+.roll-in {
+    animation: rollIn 1s ease-in-out;
+}
