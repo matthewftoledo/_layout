@@ -495,3 +495,14 @@ a:hover {
 .roll-in {
     animation: rollIn 1s ease-in-out;
 }
+
+@keyframes lightSpeedIn {
+    from {
+        transform: translateX(100%) skewX(-30deg);
+        opacity: 0;
+    }
+    to {
+        transform: translateX(0) skewX(0);
+        opacity: 1;
+    }
+}
