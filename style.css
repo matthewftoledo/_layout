@@ -506,3 +506,7 @@ a:hover {
         opacity: 1;
     }
 }
+
+.light-speed-in {
+    animation: lightSpeedIn 0.8s ease-in-out;
+}
