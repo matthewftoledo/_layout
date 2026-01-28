@@ -532,3 +532,7 @@ a:hover {
         opacity: 0;
     }
 }
+
+.hinge {
+    animation: hinge 2s ease-in-out;
+}
