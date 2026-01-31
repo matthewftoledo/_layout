@@ -547,3 +547,7 @@ a:hover {
         opacity: 0;
     }
 }
+
+.roll-out {
+    animation: rollOut 1s ease-in-out;
+}
