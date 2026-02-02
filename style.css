@@ -551,3 +551,14 @@ a:hover {
 .roll-out {
     animation: rollOut 1s ease-in-out;
 }
+
+@keyframes zoomOut {
+    from {
+        transform: scale(1);
+        opacity: 1;
+    }
+    to {
+        transform: scale(0);
+        opacity: 0;
+    }
+}
