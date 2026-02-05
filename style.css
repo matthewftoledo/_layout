@@ -577,3 +577,7 @@ a:hover {
         transform: translateY(0);
     }
 }
+
+.fade-in-down {
+    animation: fadeInDown 1s ease-in-out;
+}
