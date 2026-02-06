@@ -592,3 +592,7 @@ a:hover {
         transform: translateY(0);
     }
 }
+
+.fade-in-up {
+    animation: fadeInUp 1s ease-in-out;
+}
