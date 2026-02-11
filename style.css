@@ -622,3 +622,7 @@ a:hover {
         transform: translateX(0);
     }
 }
+
+.fade-in-right {
+    animation: fadeInRight 1s ease-in-out;
+}
